@@ -1,6 +1,6 @@
-#Find Path
+# Find Path
 
-**Project description
+** Project description
 This is a project that calculate the distance between two point using google maps api.
 
 ### The challenge
@@ -13,9 +13,7 @@ This is a project that calculate the distance between two point using google map
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://find-path-a2b1f.web.app/)
-
-## My process
+- Live Site URL: [Find Path](https://find-path-a2b1f.web.app/)
 
 ### Built with
 
