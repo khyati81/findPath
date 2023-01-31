@@ -1,6 +1,5 @@
 # Find Path
 
-** Project description
 This is a project that calculate the distance between two point using google maps api.
 
 ### The challenge
