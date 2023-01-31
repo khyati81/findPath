@@ -2,13 +2,13 @@
 
 This is a project that calculate the distance between two point using google maps api.
 
-### Screenshot
-
-![image](https://user-images.githubusercontent.com/67822169/215704608-fd10f17f-6ead-4820-b184-6ea15d891f55.png)
-
 ### Links
 
 - Live Site URL: [Find Path](https://find-path-a2b1f.web.app/)
+
+### Screenshot
+
+![image](https://user-images.githubusercontent.com/67822169/215704608-fd10f17f-6ead-4820-b184-6ea15d891f55.png)
 
 ### Built with
 
